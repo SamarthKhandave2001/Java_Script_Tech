@@ -8,6 +8,8 @@ for (var num =1; num<=10; num ++)
 //create a table of 5
 var number =1;
 while(number <=10){
-    console.log('5 *' + number + ' = ' + 5 * number);
+   // console.log('5 *' + number + ' = ' + 5 * number);
+   // another way to print
+    console.log(`5 * ${number} = ${5 * number}`);
     number ++
 }
