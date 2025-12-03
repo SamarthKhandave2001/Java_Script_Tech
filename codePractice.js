@@ -60,7 +60,7 @@ if((year % 4 ===0 && year %100 !==0) || year %400 ===0){
 }
 
 // pattern with astrics
-for(var i =1; i<=5; i++){
+for(var i =1; i<=5; i++){ //main logic for the pattern
     var pattern ="";
     for(var j=1; j<=i;j++){
         pattern = pattern + "*";
