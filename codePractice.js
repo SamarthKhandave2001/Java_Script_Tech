@@ -50,3 +50,20 @@ for(var num =1; num<=10; num ++){
 
 console.log("5 * " + num + " =" + 5 * num);
 }
+
+//program to check lear year
+var year = 2001;
+if((year % 4 ===0 && year %100 !==0) || year %400 ===0){
+    console.log(year + "is a leap year");
+}else{
+    console.log(year + "is not a leap year");
+}
+
+// pattern with astrics
+for(var i =1; i<=5; i++){
+    var pattern ="";
+    for(var j=1; j<=i;j++){
+        pattern = pattern + "*";
+    }
+    console.log(pattern);
+}
