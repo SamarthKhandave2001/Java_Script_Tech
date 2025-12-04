@@ -1,4 +1,4 @@
-//string interpolation : Template strings  support string interpolation, allowing ypu to embed expression directly within the stirng, Interpolated expression are inclosed in $()
+//string interpolation : Template strings  support string interpolation, allowing you to embed expression directly within the stirng, Interpolated expression are inclosed in $()
 
 
 let age =29;
@@ -12,3 +12,25 @@ function sum(a,b){
     return  a + b;
 }
 console.log(sum(5,15));
+
+
+
+// create a calculator 
+
+function calculator(num1, num2, operator) {
+    let result ;
+   switch(operator){
+    case "+":
+        num1 + num2;
+        return num1 + num2;
+    
+        case "-":
+        num1 - num2;
+        result = num1 - num2;
+           return result;
+            
+            default: return 'no operator found';
+   }
+}
+
+console.log(calculator(10,5,"+"));
