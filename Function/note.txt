@@ -6,3 +6,28 @@ function functionName(parameter){
     //code to be executed 
     return result; // optional retun statement 
 }
+
+function Invocation
+function greet(){
+    console.log("Welome to js coding")
+}
+greet() //function calling 
+
+//declare a function using the function keyword, followed by the function name, parameter (if any), and the function body 
+
+//function parameter
+
+function greet1(parameter1, parameter2){
+    console.log("Welcome to new greet")
+}
+
+greet1();
+
+
+//function Argument 
+
+function greet1(parameter1, parameter2){
+    console.log("Welcome to new greet")
+}
+
+greet1(argument1, argument2);
