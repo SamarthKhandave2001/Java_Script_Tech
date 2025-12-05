@@ -11,4 +11,4 @@ console.log("Formatted Date:", formattedDate);
 // Example: Extract individual parts
 console.log("Year:", currentDate.getFullYear());
 console.log("Month:", currentDate.getMonth() + 1); // Months are 0-indexed
-console.log("Day:", currentDate.getDate());
+console.log("Day:", currentDate.getDate());   //current date
