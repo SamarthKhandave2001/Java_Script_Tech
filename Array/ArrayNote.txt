@@ -1,0 +1,3 @@
+Java script array is an object that represents 
+
+eg - let fruits = ["Apple", "Banana", "Mango"];
