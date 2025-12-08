@@ -1,3 +1,6 @@
-Java script array is an object that represents 
+Java script array is an object that represents a similar types of elements.
+
+Each value (name) will be called as an element 
+In an array, the first index is called the lower index or lower boundary, and the last index is called the upper index or upper boundary.
 
 eg - let fruits = ["Apple", "Banana", "Mango"];
