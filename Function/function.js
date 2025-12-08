@@ -72,3 +72,13 @@ const newCalculator =(num1, num2, operator) =>{
 }
 console.log(calculator(20, 10, "+"));
 console.log(calculator(20, 10, "-"));
+
+
+//write a function using reverse string
+
+const isReverse = (str)  => {
+for(let char =str.length - 1;  char>= 0; char--){
+    console.log(str[char]);
+}
+};
+isReverse("Sam");
