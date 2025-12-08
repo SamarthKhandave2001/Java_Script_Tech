@@ -46,3 +46,29 @@ function calculator(num1, num2, operator){
 }
 console.log(calculator(20, 10, "+"));
 console.log(calculator(20, 10, "-"));
+
+
+//Another approch uisng arrow function
+const newCalculator =(num1, num2, operator) =>{
+    switch(operator){
+    case "+":
+        return num1 + num2;
+    case "-":
+        return num1 - num2;
+    case "*":
+        return num1 * num2;
+
+        case "/":
+            if(num2 === 0){
+                return"0 is not allowed";
+            }
+            else{
+                result = num1 / num2;
+                return result;
+            }
+    default:
+        return "no operator found";
+    }                                 
+}
+console.log(calculator(20, 10, "+"));
+console.log(calculator(20, 10, "-"));
