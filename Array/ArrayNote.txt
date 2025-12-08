@@ -4,4 +4,8 @@ Each value (name) will be called as an element
 In an array, the first index is called the lower index or lower boundary, and the last index is called the upper index or upper boundary.
 
 eg - let fruits = ["Apple", "Banana", "Mango"];
-eg - let students = ["sam","Rushi","Vik"];
+eg - let students = ["sam","Rushi","Vik"];  
+Arrays in java script can be created using the array constructor or with the array literals (square brackets[]).
+1: using Array constructor 
+let fruits = new Array("Apple","Orange","Mango");
+console.log(fruits);
