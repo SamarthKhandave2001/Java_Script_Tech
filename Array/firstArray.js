@@ -14,3 +14,9 @@ let newFruits = ["Apple","Orange","Mango"];
 
 let firstFruit = ["Apple","Orange","Mango"];
 console.log(firstFruit[0]); // Apple
+
+//Modifying Elements: you can modify array elements by assiging new value to specific indices
+
+let modifyFruits = ["Apple","Orange","Mango"];
+modifyFruits[1] = "Banana";
+console.log(modifyFruits); // ["Apple","Banana","Mango"]
