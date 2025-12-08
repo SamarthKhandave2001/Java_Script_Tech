@@ -84,3 +84,32 @@ for(let char =str.length - 1;  char>= 0; char--){
 return reverse;
 };
 console.log(isReverse("New in Learn js"));
+
+//Palindrome string
+
+const ispalindrome = (str)  => {
+    let reverse = "";
+for(let char =str.length - 1;  char>= 0; char--){
+    reverse = reverse + str[char];
+}
+if(str === reverse){
+    console.log("This Palindrome String");
+   // return true;
+} else {
+    console.log("This is not Palindrome String");
+   // return false;
+}
+};
+console.log(ispalindrome("check"));
+
+
+//another way to write palindrome function
+ const ispalindromeNew = (str)  => {
+    let reverse = "";
+for(let char =str.length - 1;  char>= 0; char--){
+    reverse = reverse + str[char];
+
+return str === reverse ? true : false          
+};
+ }
+console.log(ispalindromeNew("check"));
