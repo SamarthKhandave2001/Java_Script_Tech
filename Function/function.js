@@ -77,8 +77,10 @@ console.log(calculator(20, 10, "-"));
 //write a function using reverse string
 
 const isReverse = (str)  => {
+    let reverse = "";
 for(let char =str.length - 1;  char>= 0; char--){
-    console.log(str[char]);
+    reverse = reverse + str[char];
 }
+return reverse;
 };
-isReverse("Sam");
+console.log(isReverse("New in Learn js"));
