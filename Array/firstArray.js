@@ -32,3 +32,9 @@ let newColors = ["White","Purple","Blue","Yellow"];
 for(let item =0; item< newColors.length; item++){
 console.log(newColors[item]);
 }
+
+//for in loop  in means index
+let vehicles = ["Car","Bike","Bus","Truck"];
+for(let index in vehicles){
+    console.log(index); 
+}
