@@ -33,7 +33,7 @@ for(let item =0; item< newColors.length; item++){
 console.log(newColors[item]);
 }
 
-//for in loop  in means index
+//for in loop  in means index  for in give you index
 let vehicles = ["Car","Bike","Bus","Truck"];
 for(let index in vehicles){
     console.log(index); 
