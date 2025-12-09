@@ -38,3 +38,10 @@ let vehicles = ["Car","Bike","Bus","Truck"];
 for(let index in vehicles){
     console.log(index); 
 }
+
+//for Each
+// The arr.forEach() method calls the provide function once for each element of the array. The provided function may perofrm any kind of operation on the elements of the given array.
+
+fruits.forEach((cueElem,index, arr) => {
+    console.log(`${cueElem} ${index}` );
+});
