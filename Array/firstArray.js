@@ -26,3 +26,9 @@ let colors = ["Red","Green","Blue","Yellow"];
 for(let item of colors){
 console.log(item);
 }
+
+//another method
+let newColors = ["White","Purple","Blue","Yellow"];
+for(let item =0; item< newColors.length; item++){
+console.log(newColors[item]);
+}
