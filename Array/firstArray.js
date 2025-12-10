@@ -66,3 +66,8 @@ const doubleValue = numbers.map((curElem) => {
    //creates a new array with transformed elements
 });
 console.log(doubleValue);   
+
+//push array()
+let fruitsList = ["Apple","Banana"];
+fruitsList.push("Orange");
+console.log(fruitsList);
