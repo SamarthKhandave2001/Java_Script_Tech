@@ -73,3 +73,5 @@ console.log(fruitsList.push("Mango")); // returns new length of the array
 console.log(fruitsList);
 
 //pop array()
+console.log(fruitsList.pop()); // returns new length of the array
+console.log(fruitsList);
