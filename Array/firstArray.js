@@ -59,3 +59,8 @@ const numbers = [1, 2, 3, 4, 5];
 numbers.forEach((curElem) => {
     console.log(curElem * 2);
 });
+// another method using map
+const doubleValue = numbers.map((curElem) => {
+   return curElem * 2;
+});
+console.log(doubleValue);   
