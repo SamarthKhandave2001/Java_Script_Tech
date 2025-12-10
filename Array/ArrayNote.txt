@@ -16,3 +16,10 @@ console.log(fruits);
 // forEach: It dosent retun a value, so it cannot be directly chaineed with arry methods.
 
 //map : Since it retun a new array you can chain other array method 
+
+//How to Insert, Add, Replace and Delete Elements in Array(CRUD)
+
+1: push(): Method that adds one or more elements to the end of array
+2: pop(): Method that removes the last element from array.
+3: Unshift(): Method that add one or more elements to the beginning of an array.
+4: shift(): Method that removes the first element from an array
