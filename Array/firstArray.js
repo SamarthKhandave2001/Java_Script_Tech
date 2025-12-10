@@ -62,5 +62,7 @@ numbers.forEach((curElem) => {
 // another method using map
 const doubleValue = numbers.map((curElem) => {
    return curElem * 2;
+
+   //creates a new array with transformed elements
 });
 console.log(doubleValue);   
