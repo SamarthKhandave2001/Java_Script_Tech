@@ -45,3 +45,11 @@ for(let index in vehicles){
 fruits.forEach((cueElem,index, arr) => {
     console.log(`${cueElem} ${index}` );
 });
+
+//Map function
+//map() creates a new array from calling a function for every array element. map() does not change the original array.
+const myMapArr = fruits.map((cueElem, index, arr) => {
+    return `My fav fruti is ${cueElem}`;
+});
+console.log(myMapArr);
+console.log(fruits); 
