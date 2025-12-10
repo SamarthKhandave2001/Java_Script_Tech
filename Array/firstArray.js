@@ -69,5 +69,7 @@ console.log(doubleValue);
 
 //push array()
 let fruitsList = ["Apple","Banana"];
-fruitsList.push("Orange");
+console.log(fruitsList.push("Mango")); // returns new length of the array
 console.log(fruitsList);
+
+//pop array()
