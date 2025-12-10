@@ -53,3 +53,9 @@ const myMapArr = fruits.map((cueElem, index, arr) => {
 });
 console.log(myMapArr);
 console.log(fruits); 
+
+//write a program to multiply each element with 2
+const numbers = [1, 2, 3, 4, 5];
+numbers.forEach((curElem) => {
+    console.log(curElem * 2);
+});
