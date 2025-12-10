@@ -80,3 +80,7 @@ console.log(fruitsList); //showing which value is deleted
 
 console.log(fruitsList.unshift("Strawberry","Mango")); // returns new length of the array
 console.log(fruitsList);
+
+//shift()
+console.log(fruitsList.shift("Mango")); // returns new length of the array
+console.log(fruitsList);
