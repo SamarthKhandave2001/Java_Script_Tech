@@ -9,3 +9,10 @@ Arrays in java script can be created using the array constructor or with the arr
 1: using Array constructor 
 let fruits = new Array("Apple","Orange","Mango");
 console.log(fruits);
+
+// Return Value:
+//? forEach: It dosen't return a value. The forEach method is used for iterating over the elements of an aaray and performing a side effect, such as modifying the array or performing a task for each element.
+
+// forEach: It dosent retun a value, so it cannot be directly chaineed with arry methods.
+
+//map : Since it retun a new array you can chain other array method 
