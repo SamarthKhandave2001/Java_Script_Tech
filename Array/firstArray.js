@@ -74,4 +74,4 @@ console.log(fruitsList);
 
 //pop array()
 console.log(fruitsList.pop()); // returns new length of the array
-console.log(fruitsList);
+console.log(fruitsList); //showing which value is deleted
