@@ -89,3 +89,10 @@ console.log(fruitsList);
 //indexOf()
 const animals = ["cat","dog","elephant","tiger","dog"];
 console.log(animals.indexOf("dog")); //1st occurrence
+
+//lastIndexOf()
+const number = [1,2,3,4,5,3,2,1];
+const result = number.indexOf(2);
+console.log(result);
+const result2 = number.lastIndexOf(2);
+console.log(result2);
