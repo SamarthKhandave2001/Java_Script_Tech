@@ -86,3 +86,6 @@ console.log(fruitsList.shift("Mango")); // returns new length of the array
 console.log(fruitsList);
 
 //filters in array
+//indexOf()
+const animals = ["cat","dog","elephant","tiger","dog"];
+console.log(animals.indexOf("dog")); //1st occurrence
