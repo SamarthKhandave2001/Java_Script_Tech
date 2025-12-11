@@ -100,3 +100,9 @@ console.log(result2);
 //includes()
 const result3 = number.includes(10);
 console.log(result3); 
+
+//Add Dec at the end of an array?
+
+const months = ["Jan","Feb","Mar","Apr"];
+months.splice(months.length,0,"Dec");
+console.log(months);
