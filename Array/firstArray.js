@@ -96,3 +96,7 @@ const result = number.indexOf(2);
 console.log(result);
 const result2 = number.lastIndexOf(2);
 console.log(result2);
+
+//includes()
+const result3 = number.includes(10);
+console.log(result3); 
