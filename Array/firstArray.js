@@ -84,3 +84,5 @@ console.log(fruitsList);
 //shift()
 console.log(fruitsList.shift("Mango")); // returns new length of the array
 console.log(fruitsList);
+
+//filters in array
