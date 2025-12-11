@@ -106,3 +106,5 @@ console.log(result3);
 const months = ["Jan","Feb","Mar","Apr"];
 months.splice(months.length,0,"Dec");
 console.log(months);
+
+//Update march to March(update)?
