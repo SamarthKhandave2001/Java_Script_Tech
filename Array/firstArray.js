@@ -119,6 +119,6 @@ console.log(months);
 const num = [5,12,8,130,44];
 
 const result4 = num.find((curElem) => {
-    return curElem > 10;
+    return curElem > 2;
 });
 console.log(result4); // 12
