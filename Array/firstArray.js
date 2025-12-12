@@ -114,3 +114,11 @@ months.splice(indexToUpdate, 1, "March");
 console.log(months);
 
 
+//find first element in array
+
+const num = [5,12,8,130,44];
+
+const result4 = num.find((curElem) => {
+    return curElem > 10;
+});
+console.log(result4); // 12
