@@ -31,4 +31,5 @@ Syntax: indexOf(searchElement, fromIndex)
 
 lastIndexOf() method : The lastIndexOf() method of array instance returns the last index at which a given element can be found in the array or -1 if it is not present.  The array is searched backwards, stating at fromIndex
 
-//
+//Filter in an array
+1: find Method: THe find method is used to find first element in an array that satisfies a provided testing function. It returns matching element or undefine if no element is found.
