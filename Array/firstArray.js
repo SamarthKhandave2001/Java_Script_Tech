@@ -109,3 +109,6 @@ months.splice(months.length,0,"Dec");
 console.log(months);
 
 //Update march to March(update)?
+const indexToUpdate = months.indexOf("Mar");
+months.splice(indexToUpdate, 1, "March");
+console.log(months);
