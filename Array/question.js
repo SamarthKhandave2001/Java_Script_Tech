@@ -31,3 +31,17 @@ for (let i = 0; i < arr1.length; i++) {
 }
 
 console.log(sum); // 10
+
+//check element exist in array
+let arr2 = [10, 20, 30];
+let target = 20;
+let found = false;
+
+for (let i = 0; i < arr2.length; i++) {
+  if (arr2[i] === target) {
+    found = true;
+    break;
+  }
+}
+
+console.log(found); // true
