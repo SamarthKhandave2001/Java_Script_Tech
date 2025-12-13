@@ -21,3 +21,13 @@ for (let i = 1; i < newarr.length; i++) {
 }
 
 console.log(min);
+
+//sum of array elements
+let arr1 = [1, 2, 3, 4];
+let sum = 0;
+
+for (let i = 0; i < arr1.length; i++) {
+  sum += arr1[i];
+}
+
+console.log(sum); // 10
