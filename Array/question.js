@@ -45,3 +45,18 @@ for (let i = 0; i < arr2.length; i++) {
 }
 
 console.log(found); // true
+
+//chekc odd even number in array
+let arr3 = [1, 2, 3, 4, 5];
+let even = 0;
+let odd = 0;
+
+for (let i = 0; i < arr3.length; i++) {
+  if (arr3[i] % 2 === 0) {
+    even++;
+  } else {
+    odd++;
+  }
+}
+
+console.log("Even:", even, "Odd:", odd);
