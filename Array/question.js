@@ -9,3 +9,15 @@ for (let i = 1; i < arr.length; i++) {
 }
 
 console.log(max);
+
+//find smallest array number
+let newarr = [10, 5, 20, 8];
+let min = newarr[0];
+
+for (let i = 1; i < newarr.length; i++) {
+  if (newarr[i] < min) {
+    min = newarr[i];
+  }
+}
+
+console.log(min);
