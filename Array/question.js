@@ -60,3 +60,19 @@ for (let i = 0; i < arr3.length; i++) {
 }
 
 console.log("Even:", even, "Odd:", odd);
+
+// Find second largest number in an array
+let arr4 = [10, 5, 20, 8];
+let first = -Infinity;
+let second = -Infinity;
+
+for (let i = 0; i < arr4.length; i++) {
+  if (arr4[i] > first) {
+    second = first;
+    first = arr4[i];
+  } else if (arr4[i] > second && arr4[i] !== first) {
+    second = arr4[i];
+  }
+}
+
+console.log(second); // 10
