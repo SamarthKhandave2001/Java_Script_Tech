@@ -148,11 +148,11 @@ console.log(result6);
 
 // Using the map method, write a function that takes an array of numbers and retuns a new array where each number is squared, but only if it's an even number.
 
-const nums = [1,2,3,4,5,6];
+const nums = [1,2,3,4,5,6,14];
 const result7 = nums.map((curElem) => {
     if(curElem % 2 === 0){
         return curElem * curElem;
     }
     return curElem;
-});
+})
 console.log(result7);
