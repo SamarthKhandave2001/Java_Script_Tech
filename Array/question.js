@@ -130,3 +130,15 @@ for (let i = index; i < arr8.length - 1; i++) {
 arr8.length--;
 
 console.log(arr8); // [1,3,4]
+
+//Remove duplicate from array
+let arr9 = [1, 2, 2, 3, 3];
+let result = [];
+
+for (let i = 0; i < arr9.length; i++) {
+  if (!result.includes(arr9[i])) {
+    result.push(arr9[i]);
+  }
+}
+
+console.log(result); // [1,2,3]
