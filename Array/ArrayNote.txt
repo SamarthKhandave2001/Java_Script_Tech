@@ -58,3 +58,12 @@ Example:
 
 let arr = [];
 arr[3] = 10;
+
+
+Difference between splice() and slice()?
+
+Answer:
+
+splice() modifies original array
+
+slice() returns new array without modifying original
