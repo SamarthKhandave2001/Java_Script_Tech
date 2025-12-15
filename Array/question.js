@@ -112,3 +112,10 @@ for (let i = 0; i < str.length; i++) {
 }
 
 console.log(count); // 3
+
+//Add element at the END (using push())
+
+let arr7 = [1, 2, 3];
+arr7.push(4);
+
+console.log(arr7); // [1, 2, 3, 4]
