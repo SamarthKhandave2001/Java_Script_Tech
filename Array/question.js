@@ -76,3 +76,4 @@ for (let i = 0; i < arr4.length; i++) {
 }
 
 console.log(second); // 10
+// write a java script function that calculates the total prie of items in a shopping cart. The function should take an array of item prices as input and retun the total price.
