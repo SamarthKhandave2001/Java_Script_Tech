@@ -134,3 +134,7 @@ console.log(value); // [1,5,10,25,40,100]
 //Using the map() method, write a function that takes an array of strings and returns a new array where each stirng is capitalized
 
 const words = ["hello","world","javascript","array"];
+const result5 = words.map((curElem) => {
+    return curElem.toUpperCase();
+});
+console.log(result5); // ["HELLO","WORLD","JAVASCRIPT","ARRAY"]
