@@ -156,3 +156,9 @@ const result7 = nums.map((curElem) => {
     return curElem;
 })
 console.log(result7);
+
+//Using the map method, write a function that takes an array of names and returns new array where each name is prefixed with "Mr."
+
+const personNames = ["John","David","Sam","Michael"];
+const prefixName = personNames.map((curElem) => `Mr. ${curElem}`);
+console.log(prefixName); // ["Mr. John","Mr. David","Mr. Sam","Mr. Michael"]
