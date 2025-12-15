@@ -33,3 +33,18 @@ lastIndexOf() method : The lastIndexOf() method of array instance returns the la
 
 //Filter in an array
 1: find Method: THe find method is used to find first element in an array that satisfies a provided testing function. It returns matching element or undefine if no element is found.
+
+2. Is JavaScript array fixed size?
+
+Answer:
+No. JavaScript arrays are dynamic. Their size can grow or shrink at runtime.
+
+🔹 3. How is a JavaScript array different from an object?
+
+Answer:
+
+Arrays store data using numeric indexes
+
+Objects store data using key–value pairs
+
+Arrays maintain order, objects do not guarantee order
