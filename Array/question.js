@@ -119,3 +119,14 @@ let arr7 = [1, 2, 3];
 arr7.push(4);
 
 console.log(arr7); // [1, 2, 3, 4]
+
+//Remove an element from array (WITHOUT inbuilt)
+let arr8 = [1, 2, 3, 4];
+let index = 1;
+
+for (let i = index; i < arr8.length - 1; i++) {
+  arr8[i] = arr8[i + 1];
+}
+arr8.length--;
+
+console.log(arr8); // [1,3,4]
