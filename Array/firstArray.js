@@ -138,3 +138,10 @@ const result5 = words.map((curElem) => {
     return curElem.toUpperCase();
 });
 console.log(result5); // ["HELLO","WORLD","JAVASCRIPT","ARRAY"]
+
+//Using to LowerCase
+const words1 = ["Hello","World","javascripT","ArraA"];
+const result6 = words.map((curElem) => {
+    return curElem.toLowerCase();
+});
+console.log(result6);
