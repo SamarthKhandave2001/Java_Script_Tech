@@ -82,3 +82,14 @@ const productPrices = [29.99, 49.99, 19.99, 9.99];
 const totalprice = productPrices.reduce((accum,curElem) => {return accum +curElem},0);
 
 console.log(totalprice);
+
+
+//Count frequency of elements
+let arr6 = ['a', 'b', 'a', 'c', 'b'];
+let freq = {};
+
+for (let i = 0; i < arr6.length; i++) {
+  freq[arr6[i]] = (freq[arr6[i]] || 0) + 1;
+}
+
+console.log(freq);
