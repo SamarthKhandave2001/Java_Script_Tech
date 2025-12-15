@@ -131,3 +131,6 @@ if(b >a) return -1;
 });
 console.log(value); // [1,5,10,25,40,100] 
 
+//Using the map() method, write a function that takes an array of strings and returns a new array where each stirng is capitalized
+
+const words = ["hello","world","javascript","array"];
