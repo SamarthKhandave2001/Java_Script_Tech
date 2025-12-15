@@ -48,3 +48,13 @@ Arrays store data using numeric indexes
 Objects store data using key–value pairs
 
 Arrays maintain order, objects do not guarantee order
+
+7. What are sparse arrays?
+
+Answer:
+Arrays with missing indexes are called sparse arrays.
+
+Example:
+
+let arr = [];
+arr[3] = 10;
