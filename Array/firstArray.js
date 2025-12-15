@@ -122,3 +122,12 @@ const result4 = num.find((curElem) => {
     return curElem > 2;
 });
 console.log(result4); // 5
+
+//sort numbers
+const value = [40,100,1,5,25,10];
+value.sort((a, b) => {
+if(a > b) return 1;
+if(b >a) return -1; 
+});
+console.log(value); // [1,5,10,25,40,100] 
+
