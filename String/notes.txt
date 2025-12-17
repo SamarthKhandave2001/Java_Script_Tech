@@ -33,3 +33,13 @@ Difference Between == and === for Strings
 === → compares value + data type
 
 Using === is always recommended.
+
+What is Template Literal?
+
+Template literals use backticks (`) and allow:
+
+Variable interpolation
+
+Multi-line strings
+
+They make string handling easier and more readable.
