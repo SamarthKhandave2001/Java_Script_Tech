@@ -1,0 +1,1 @@
+Strings in java script are a fundamental data type thet represents a sequence of charachter
