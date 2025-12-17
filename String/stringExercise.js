@@ -10,3 +10,9 @@ console.log(text);
 //Index Of()
 let newText="Hello World";
 console.log(newText.indexOf("o"));//4
+
+let strArr = Array.from(newText);
+// console.log(strArr);
+
+let strMap = strArr.map((curElem, index) => `${curElem} - ${index}`);
+console.log(strMap);
