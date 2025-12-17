@@ -1,1 +1,3 @@
 Strings in java script are a fundamental data type thet represents a sequence of charachter
+
+Strings created with single or double quotes works the same.
