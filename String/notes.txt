@@ -25,3 +25,11 @@ By default, a string is a primitive data type
 JavaScript automatically converts it into a String object when methods are applied
 
 👉 This is called auto-boxing
+
+Difference Between == and === for Strings
+
+== → compares values only
+
+=== → compares value + data type
+
+Using === is always recommended.
