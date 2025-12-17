@@ -23,3 +23,7 @@ let result = text2.match("java script");
 console.log(result);
 
 //matchAll(): Returns an iterator of all matches, providing detailed information about each match. Returns an empty iterator if no match is found.
+
+let text3  = "Hello JavaScript";
+let matchResult = text3.matchAll("Hello JavaScript");
+console.log(...matchResult);
