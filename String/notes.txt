@@ -7,3 +7,12 @@ Search() Method: The Searc() method searches a stirng for a string(or a regular 
 //Returns the index number where the first match is found. Returns -1 if no match is found.
 
 //mathc(): Returns an array of the matched values or null if no match is found.
+
+
+Strings are Immutable
+
+You cannot change a character directly.
+
+let str = "Hello";
+str[0] = "Y";  
+console.log(str); // Hello (no change)
