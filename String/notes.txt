@@ -65,3 +65,14 @@ slice() → supports negative index
 substring() → does not support negative index
 
 substr() → uses start index + length (deprecated)
+
+
+What is Unicode in JavaScript Strings?
+
+JavaScript strings are based on Unicode, allowing support for:
+
+Multiple languages
+
+Emojis
+
+Special symbols
