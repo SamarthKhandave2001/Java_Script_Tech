@@ -5,3 +5,5 @@ Strings created with single or double quotes works the same.
 Search() Method: The Searc() method searches a stirng for a string(or a regular expression) and returns the position of the match.
 
 //Returns the index number where the first match is found. Returns -1 if no match is found.
+
+//mathc(): Returns an array of the matched values or null if no match is found.
