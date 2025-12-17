@@ -16,3 +16,8 @@ let strArr = Array.from(newText);
 
 let strMap = strArr.map((curElem, index) => `${curElem} - ${index}`);
 console.log(strMap);
+//match()
+
+let text2 = "Welcome to java script";
+let result = text2.match("java script");
+console.log(result);
