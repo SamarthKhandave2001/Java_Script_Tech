@@ -43,3 +43,25 @@ Variable interpolation
 Multi-line strings
 
 They make string handling easier and more readable.
+
+How are Strings Stored in Memory?
+
+Strings are stored as sequences of characters
+
+Each character has an index, starting from 0
+
+Memory is allocated as read-only because strings are immutable
+
+7️⃣ What is String Length?
+
+length returns the total number of characters
+
+Includes spaces and special characters
+
+8️⃣ Difference Between slice(), substring(), and substr()
+
+slice() → supports negative index
+
+substring() → does not support negative index
+
+substr() → uses start index + length (deprecated)
