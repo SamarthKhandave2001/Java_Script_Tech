@@ -16,3 +16,12 @@ You cannot change a character directly.
 let str = "Hello";
 str[0] = "Y";  
 console.log(str); // Hello (no change)
+
+
+Is JavaScript String Primitive or Object?
+
+By default, a string is a primitive data type
+
+JavaScript automatically converts it into a String object when methods are applied
+
+👉 This is called auto-boxing
