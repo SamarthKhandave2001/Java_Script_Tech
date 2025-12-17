@@ -16,3 +16,15 @@ for (let i = 0; i < str.length; i++) {
 }
 
 console.log(count);
+
+//Find Number of Words in a String
+let str1 = "I am learning JavaScript";
+let count1 = 1;
+
+for (let i = 0; i < str1.length; i++) {
+  if (str1[i] === " ") {
+    count1++;
+  }
+}
+
+console.log(count1);
