@@ -30,5 +30,10 @@ console.log(...matchResult);
 
 // includes():
 let msg = "Hello Javascript, welcome to our world best javascript course";
-let includeResult = msg.includes("javascript");
+let includeResult = msg.includes("No");
 console.log(includeResult); //true
+
+//startsWith()
+let newmsg = "Hello World, welcome to the universe.";
+let newResult = newmsg.startsWith("Hello");
+console.log(newResult); //true
