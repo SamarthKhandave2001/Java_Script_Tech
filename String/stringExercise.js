@@ -27,3 +27,6 @@ console.log(result);
 let text3  = "Hello JavaScript";
 let matchResult = text3.matchAll("Hello JavaScript");
 console.log(...matchResult);
+
+// includes():
+let msg = "Hello Javascript, welcome to our world best javascript course";
