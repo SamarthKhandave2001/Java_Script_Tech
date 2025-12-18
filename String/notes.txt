@@ -91,3 +91,5 @@ User input handling
 
 // includes(): Returns true if the string contains the specified value, and false otherwise.
 note: includes() is case sensitive. includes() is an ES6 feature.
+
+// startsWith(): The startsWith() method returns true if a string begins with a specified value. Otherwise it retun false.
