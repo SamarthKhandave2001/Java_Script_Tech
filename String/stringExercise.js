@@ -30,3 +30,5 @@ console.log(...matchResult);
 
 // includes():
 let msg = "Hello Javascript, welcome to our world best javascript course";
+let includeResult = msg.includes("javascript");
+console.log(includeResult); //true
