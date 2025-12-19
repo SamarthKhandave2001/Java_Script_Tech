@@ -62,3 +62,25 @@ A function that remembers variables from its outer scope
 Even after outer function execution is finished
 
 👉 Used in data hiding, callbacks, event handlers
+
+What is Scope?
+
+Global scope
+
+Function scope
+
+Block scope (let, const)
+
+What is Callback Function?
+
+A function passed as an argument to another function
+
+Executed after some operation completes
+
+Used in:
+
+Event handling
+
+API calls
+
+Async operations
