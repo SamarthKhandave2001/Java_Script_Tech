@@ -161,3 +161,9 @@ Local	Session
 Persistent	Temporary
 No expiry	Cleared on tab close
 5–10 MB	5 MB
+
+null vs undefined
+
+undefined → variable declared but not assigned
+
+null → intentional empty value
