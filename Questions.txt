@@ -48,3 +48,9 @@ JavaScript moves declarations to the top
 var is initialized as undefined
 
 let and const are in Temporal Dead Zone
+
+== vs ===
+
+== → compares value only
+
+=== → compares value + type ✅ (preferred)
