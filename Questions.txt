@@ -84,3 +84,18 @@ Event handling
 API calls
 
 Async operations
+
+
+What is Promise?
+
+Represents eventual completion or failure of async operation
+
+States:
+
+Pending
+
+Fulfilled
+
+Rejected
+
+Used to avoid callback hell
