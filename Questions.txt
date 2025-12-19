@@ -1,1 +1,8 @@
 JavaScript Interview Notes (Quick Revision)
+What is JavaScript?
+
+JavaScript is a lightweight, interpreted, high-level scripting language
+
+Used to create dynamic and interactive web applications
+
+Runs on browser and server (Node.js)
