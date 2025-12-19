@@ -1,4 +1,5 @@
 JavaScript Interview Notes (Quick Revision)
+//Revision
 What is JavaScript?
 
 JavaScript is a lightweight, interpreted, high-level scripting language
