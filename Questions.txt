@@ -40,3 +40,11 @@ Scope	Function	Block	Block
 Re-declare	Yes	No	No
 Re-assign	Yes	Yes	No
 Hoisted	Yes (undefined)	Yes (TDZ)	Yes (TDZ)
+
+Hoisting
+
+JavaScript moves declarations to the top
+
+var is initialized as undefined
+
+let and const are in Temporal Dead Zone
