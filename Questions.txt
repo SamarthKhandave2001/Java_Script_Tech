@@ -116,3 +116,13 @@ JavaScript is single-threaded
 Event loop handles async tasks
 
 Moves tasks from callback queue to call stack
+
+this Keyword
+
+Depends on how a function is called
+
+Global → window
+
+Object method → object itself
+
+Arrow function → lexical scope
