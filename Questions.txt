@@ -6,3 +6,30 @@ JavaScript is a lightweight, interpreted, high-level scripting language
 Used to create dynamic and interactive web applications
 
 Runs on browser and server (Node.js)
+
+JavaScript Data Types
+Primitive
+
+String
+
+Number
+
+Boolean
+
+Undefined
+
+Null
+
+BigInt
+
+Symbol
+
+Non-Primitive
+
+Object
+
+Array
+
+Function
+
+👉 Primitive types are immutable.
