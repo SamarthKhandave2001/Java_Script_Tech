@@ -175,3 +175,9 @@ Means Not a Number
 Type is number
 
 NaN !== NaN
+
+Shallow vs Deep Copy
+
+Shallow copy → copies reference
+
+Deep copy → copies actual value
