@@ -155,3 +155,9 @@ Document Object Model
 Represents HTML as a tree structure
 
 JS uses DOM to manipulate UI
+
+Local Storage vs Session Storage
+Local	Session
+Persistent	Temporary
+No expiry	Cleared on tab close
+5–10 MB	5 MB
