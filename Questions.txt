@@ -33,3 +33,10 @@ Array
 Function
 
 👉 Primitive types are immutable.
+
+var vs let vs const
+Feature	var	let	const
+Scope	Function	Block	Block
+Re-declare	Yes	No	No
+Re-assign	Yes	Yes	No
+Hoisted	Yes (undefined)	Yes (TDZ)	Yes (TDZ)
