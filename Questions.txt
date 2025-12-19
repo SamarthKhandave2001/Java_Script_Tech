@@ -181,3 +181,9 @@ Shallow vs Deep Copy
 Shallow copy → copies reference
 
 Deep copy → copies actual value
+
+Why JavaScript is Single-Threaded?
+
+To avoid race conditions
+
+Uses event loop for async tasks
