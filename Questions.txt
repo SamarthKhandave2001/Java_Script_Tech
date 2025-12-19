@@ -54,3 +54,11 @@ let and const are in Temporal Dead Zone
 == → compares value only
 
 === → compares value + type ✅ (preferred)
+
+What is Closure?
+
+A function that remembers variables from its outer scope
+
+Even after outer function execution is finished
+
+👉 Used in data hiding, callbacks, event handlers
