@@ -99,3 +99,11 @@ Fulfilled
 Rejected
 
 Used to avoid callback hell
+
+async / await
+
+Cleaner way to write async code
+
+Makes async code look synchronous
+
+Built on top of Promises
