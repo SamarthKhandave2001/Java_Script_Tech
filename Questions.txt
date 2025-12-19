@@ -167,3 +167,11 @@ null vs undefined
 undefined → variable declared but not assigned
 
 null → intentional empty value
+
+What is NaN?
+
+Means Not a Number
+
+Type is number
+
+NaN !== NaN
