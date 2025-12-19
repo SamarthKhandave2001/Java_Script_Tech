@@ -147,3 +147,11 @@ Array	Object
 Indexed	Key-value
 Ordered	Unordered
 Stores list	Stores entity
+
+What is DOM?
+
+Document Object Model
+
+Represents HTML as a tree structure
+
+JS uses DOM to manipulate UI
