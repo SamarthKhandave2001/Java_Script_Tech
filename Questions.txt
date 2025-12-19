@@ -140,3 +140,10 @@ arguments
 super
 
 Used in callbacks and functional programming
+
+
+Array vs Object
+Array	Object
+Indexed	Key-value
+Ordered	Unordered
+Stores list	Stores entity
