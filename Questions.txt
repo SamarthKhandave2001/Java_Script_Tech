@@ -229,3 +229,8 @@ What is immutability?
 Data that cannot be changed directly
 
 Important in React state management
+What is debounce and throttle?
+
+Debounce → delays execution
+
+Throttle → limits execution rate
