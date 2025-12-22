@@ -211,3 +211,9 @@ Difference between synchronous and asynchronous code?
 Sync → blocks execution
 
 Async → non-blocking (setTimeout, API calls)
+
+What are promises?
+
+Handle async operations
+
+States: pending, fulfilled, rejected
