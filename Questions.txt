@@ -200,3 +200,9 @@ Event flows from child → parent
 
 Can be stopped using event.stopPropagation()
 
+
+What is event delegation?
+
+Attaching event to parent instead of children
+
+Improves performance
