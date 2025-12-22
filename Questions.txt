@@ -206,3 +206,8 @@ What is event delegation?
 Attaching event to parent instead of children
 
 Improves performance
+Difference between synchronous and asynchronous code?
+
+Sync → blocks execution
+
+Async → non-blocking (setTimeout, API calls)
