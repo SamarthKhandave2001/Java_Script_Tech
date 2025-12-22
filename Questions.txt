@@ -188,3 +188,9 @@ Why JavaScript is Single-Threaded?
 To avoid race conditions
 
 Uses event loop for async tasks
+
+What is JavaScript and where does it run?
+
+JavaScript is a scripting language used to build interactive UIs
+
+Runs in browser and server (Node.js)
