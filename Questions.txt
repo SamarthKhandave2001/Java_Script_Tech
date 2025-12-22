@@ -217,3 +217,9 @@ What are promises?
 Handle async operations
 
 States: pending, fulfilled, rejected
+
+Local Storage vs Session Storage?
+
+Local → permanent
+
+Session → cleared on tab close
