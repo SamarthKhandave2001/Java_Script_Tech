@@ -223,3 +223,9 @@ Local Storage vs Session Storage?
 Local → permanent
 
 Session → cleared on tab close
+
+What is immutability?
+
+Data that cannot be changed directly
+
+Important in React state management
