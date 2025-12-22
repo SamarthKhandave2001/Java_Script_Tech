@@ -12,3 +12,13 @@ console.log("Formatted Date:", formattedDate);
 console.log("Year:", currentDate.getFullYear());
 console.log("Month:", currentDate.getMonth() + 1); // Months are 0-indexed
 console.log("Day:", currentDate.getDate());   //current date
+
+let str = "madam";
+let rev = "";
+
+for (let i = str.length - 1; i >= 0; i--) {
+  rev += str[i];
+}
+
+console.log(str === rev);
+
