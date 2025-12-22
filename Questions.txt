@@ -194,3 +194,9 @@ What is JavaScript and where does it run?
 JavaScript is a scripting language used to build interactive UIs
 
 Runs in browser and server (Node.js)
+What is event bubbling?
+
+Event flows from child → parent
+
+Can be stopped using event.stopPropagation()
+
