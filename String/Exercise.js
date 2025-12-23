@@ -28,3 +28,7 @@ for (let i = 0; i < str1.length; i++) {
 }
 
 console.log(count1);
+
+let text5 = "Hello java script";
+let result = text5.slice(6);
+console.log(result);
