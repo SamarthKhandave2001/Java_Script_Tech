@@ -94,3 +94,4 @@ note: includes() is case sensitive. includes() is an ES6 feature.
 
 // startsWith(): The startsWith() method returns true if a string begins with a specified value. Otherwise it retun false.
 //
+java script counts positions from zero
