@@ -98,3 +98,6 @@ java script counts positions from zero
 Slice() extracts up to but not including indexEnd
 
 Substring: Extracts a portion of the string based on starting and ending indices
+//syntax
+substring(indexStart) // index start with Zero.
+substring(index)
