@@ -103,3 +103,4 @@ substring(indexStart) // index start with Zero.
 substring(index)
 substring() extracts up to but not including indexEnd.
 //new
+//API (Application Programming Interface)
