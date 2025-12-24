@@ -6,6 +6,8 @@ JavaScript is a lightweight, interpreted, high-level scripting language
 
 Used to create dynamic and interactive web applications
 
+JavaScript contains a standard library of objects, such as Array, Map, and Math, and a core set of language elements such as operators, control structures, and statements.
+
 Runs on browser and server (Node.js)
 
 JavaScript Data Types
