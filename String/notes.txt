@@ -102,3 +102,4 @@ Substring: Extracts a portion of the string based on starting and ending indices
 substring(indexStart) // index start with Zero.
 substring(index)
 substring() extracts up to but not including indexEnd.
+//new
