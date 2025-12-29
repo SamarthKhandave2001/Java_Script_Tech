@@ -62,6 +62,7 @@ arr[3] = 10;
 
 Difference between splice() and slice()?
 //
+//
 Answer:
 
 splice() modifies original array
