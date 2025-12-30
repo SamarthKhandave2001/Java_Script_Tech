@@ -146,4 +146,4 @@ console.log(result); // [1,2,3]
 let arr10 = [1, 2, 3, 4, 5];
 let secondLast = arr10[arr10.length - 2];
 
-console.log(secondLast); // 4
+console.log(secondLast); // 
