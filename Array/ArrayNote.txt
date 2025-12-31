@@ -71,3 +71,5 @@ slice() returns new array without modifying original
 JavaScript arrays are resizable and can contain a mix of different data types
 
 //javascript object
+
+An Object is a variable that can hold many variables.
