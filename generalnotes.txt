@@ -5,3 +5,5 @@ A JavaScript Set is a collection of unique values.
 Each value can only occur once in a Set.
 
 The values can be of any type, primitive values or objects.
+// Create a Set
+const letters = new Set(["a","b","c"]);
