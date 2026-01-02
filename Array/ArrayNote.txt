@@ -131,3 +131,4 @@ WebGL and Canvas:
 Fast graphics rendering and image processing.
 File APIs:
 Fast reading and writing of local files
+Media APIs:
