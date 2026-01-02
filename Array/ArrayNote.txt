@@ -119,3 +119,10 @@ Zero indexed: The first element is at index 0, the second at index 1, and so on.
 Dynamic size: Arrays can grow or shrink as elements are added or removed.
 //
 Heterogeneous: Arrays can store elements of different data types (numbers, strings, objects and other arrays).
+
+Typed Array Benefits
+Typed Arrays were designed to provide an efficient way to handle binary data, unlike traditional JavaScript arrays which can hold elements of mixed data types.
+
+Typed arrays are raw memory, so JavaScript can pass them directly to any function without converting the data to another representation.
+
+Typed arrays are seriously faster than normal arrays for passing data to functions that can use raw binary data. Typed Arrays are highly suitable for:
