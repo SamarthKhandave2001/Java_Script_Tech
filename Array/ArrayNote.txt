@@ -130,3 +130,4 @@ Typed arrays are seriously faster than normal arrays for passing data to functio
 WebGL and Canvas:
 Fast graphics rendering and image processing.
 File APIs:
+Fast reading and writing of local files
