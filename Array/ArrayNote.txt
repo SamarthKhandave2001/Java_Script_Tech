@@ -126,7 +126,7 @@ Typed Arrays were designed to provide an efficient way to handle binary data, un
 Typed arrays are raw memory, so JavaScript can pass them directly to any function without converting the data to another representation.
 
 Typed arrays are seriously faster than normal arrays for passing data to functions that can use raw binary data. Typed Arrays are highly suitable for:
-
+//
 WebGL and Canvas:
 Fast graphics rendering and image processing.
 File APIs:
