@@ -3,6 +3,7 @@ In java script a function is a block of resuable code that perform specific task
 A JavaScript Function can only return one value.
 
 A JavaScript Generator can yield a stream of data.
+A JavaScript Generator can be paused and resumed.
 
 A JavaScript Generator can return multiple values, one by one.
 
