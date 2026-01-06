@@ -8,6 +8,7 @@ A JavaScript Generator can be paused and resumed.
 A JavaScript Generator can return multiple values, one by one.
 
 // syntax
+//
 function functionName(parameter){
     //code to be executed 
     return result; // optional retun statement 
