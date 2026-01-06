@@ -1,5 +1,5 @@
 // create a empty array
-
+//Array questions
 let arr = [];
 console.log(arr); // 
 
