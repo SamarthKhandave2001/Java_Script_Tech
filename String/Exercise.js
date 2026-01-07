@@ -33,3 +33,8 @@ let text5 = "Hello java script";
 let result = //text5.slice(6);
 text5.slice(6,15); //end at th index 15 but not include 15
 console.log(result);
+
+//substirng example
+let newText = "Hello world";
+let result1 = newText.substring(0,5); //end at th index 5 but not include 5
+console.log(result1);

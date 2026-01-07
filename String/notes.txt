@@ -107,4 +107,4 @@ substring() extracts up to but not including indexEnd.
 //HTTP Method
 
 substring: Extracts a portion of the string based on starting and ending of indices
-//camelCase is used to seperate words, substring is not to be intended as substring but as substring 
+//camelCase is used to seperate words, substring is not to be intended as substring but as substring
