@@ -105,3 +105,5 @@ substring() extracts up to but not including indexEnd.
 //new
 //API (Application Programming Interface)
 //HTTP Method
+
+substring: Extracts a portion of the string based on starting and ending of indices
