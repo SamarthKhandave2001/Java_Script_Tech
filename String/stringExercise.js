@@ -37,3 +37,7 @@ console.log(includeResult); //true
 let newmsg = "Hello World, welcome to the universe.";
 let newResult = newmsg.startsWith("Hello");
 console.log(newResult); //true
+//replace 
+const str8 = "Hello new";
+const str9 = str8.replace("new", "JavaScript");
+console.log(str9);  
