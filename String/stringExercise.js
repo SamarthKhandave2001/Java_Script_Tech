@@ -41,3 +41,5 @@ console.log(newResult); //true
 const str8 = "Hello new";
 const str9 = str8.replace("new", "JavaScript");
 console.log(str9);  
+
+//
