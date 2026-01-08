@@ -112,5 +112,5 @@ substring: Extracts a portion of the string based on starting and ending of indi
 charCodeAt(): The charCodeAt method returns the code of the character at a specified index in a string. The method returns a UTF-16 code (an integer between 0 and 65535)
 
 Case-Insensitive : To perform a case-sensitive replacement, you can use the i flag in the regular expression.
-//
+
 // toUpperCase and toLowerCase: converts the string to toUpperCase or lower case
