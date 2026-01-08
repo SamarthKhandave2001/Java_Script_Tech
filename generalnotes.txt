@@ -7,3 +7,7 @@ Each value can only occur once in a Set.
 The values can be of any type, primitive values or objects.
 // Create a Set
 const letters = new Set(["a","b","c"]);
+
+A JavaScript WeakSet is a collection of values where the values must be objects.
+
+A WeakSet holds weak references to its values.
