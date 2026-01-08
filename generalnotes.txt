@@ -11,3 +11,14 @@ const letters = new Set(["a","b","c"]);
 A JavaScript WeakSet is a collection of values where the values must be objects.
 
 A WeakSet holds weak references to its values.
+// Create a WeakSet
+let mySet = new WeakSet();
+
+// Create an Object
+let myObj = {fname:"John", lname:"Doe"};
+
+// Add the Object
+mySet.add(myObj);
+
+// Do I have myObj in the mySet?
+let answer = mySet.has(myObj);
