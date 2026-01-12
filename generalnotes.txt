@@ -24,4 +24,3 @@ mySet.add(myObj);
 let answer = mySet.has(myObj);
 //label statement
 A labeled statement is any statement that is prefixed with an identifier. You can jump to this label using a break or continue statement nested within the labeled statement.
-//
