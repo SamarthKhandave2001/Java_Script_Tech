@@ -113,7 +113,7 @@ Makes async code look synchronous
 
 Built on top of Promises
 
-//Event
+
 What is Event Loop?
 
 JavaScript is single-threaded
